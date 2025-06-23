@@ -48,4 +48,9 @@ While it's static, it can be extended using JavaScript or frameworks like React.
 | CSS3         | Styling and responsiveness  |
 | Font Awesome | Icons for buttons/logos     |
 
+netflix-clone/
+├── index.html     # Main HTML file for layout
+├── style.css      # CSS styling for the page
+└── README.md      # Project description and documentation
+
 ---
